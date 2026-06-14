@@ -1,0 +1,6 @@
+{
+  "name": "Gajera Dental Clinic",
+  "description": "Premium dental clinic in Surat, Gujarat led by expert surgeons Dr. Sujit Gajera, Dr. Twinkal T Munjani, and Dr. Nensi Savani. Specialized in dental implants, smile design, cosmetic dentistry, and comprehensive care.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
