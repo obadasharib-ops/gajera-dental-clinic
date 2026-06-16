@@ -1,0 +1,7 @@
+# Google Search Console and General Search Engine Crawler Rules
+User-agent: *
+Allow: /
+
+# Host & Sitemap specification
+Host: https://gajera-dental-clinic-surat.com
+Sitemap: https://gajera-dental-clinic-surat.com/sitemap.xml
